@@ -1,0 +1,1 @@
+frida -U -l D:\HACK\SoftwarePrograms\Android\FridaProgram\蛋仔派对取消AI降噪\hook.js 蛋仔派对
